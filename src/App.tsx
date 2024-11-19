@@ -6,6 +6,8 @@ function App() {
 
   return (
     <>
+    <h1 className="font-bold">super</h1>
+      <Card />
       <Card />
     </>
   )
